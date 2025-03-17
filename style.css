@@ -43,7 +43,8 @@ body {
 .header
 {
     display: flex;
-    margin: 0px var(--margin-gap)
+    margin: 0px var(--margin-gap);
+    padding: 10px 0;
 }
 .hero-secondary
 {
