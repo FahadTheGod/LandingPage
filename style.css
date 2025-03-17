@@ -74,7 +74,7 @@ body {
 .details
 {
     display: flex;
-    margin: 140px var(--margin-gap);
+    margin: 90px var(--margin-gap);
     align-items: center;
 }
 
